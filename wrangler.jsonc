@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "database",
-      "database_id": "189d4a71-9d1b-42d0-aca6-a8ef8d5ea51c"
+      "database_name": "calendardb",
+      "database_id": "b87d5e4a-4f3b-46b0-a010-cec657140980"
     }
   ]
 }
