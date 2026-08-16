@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "REPLACE_WITH_YOUR_D1_DATABASE_NAME",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+      "database_name": "database",
+      "database_id": "189d4a71-9d1b-42d0-aca6-a8ef8d5ea51c"
     }
   ]
 }
